@@ -6,8 +6,16 @@ Course: MCA
 Role: Python Development Intern
 
 Tasks Completed:
-1. Number Guessing Game
-2. File Manipulation Program
+1. String Reversal
+2. Temperature Conversion
+3. Email Validator
+4. Calculator Program
+5. Palindrome Checker
+6. Guessing Game
+7. Number Guesser
+8. Password Strength Checker
+9. Fibonacci Sequence
+10. File Manipulation 
 
 Technologies Used:
 - Python
